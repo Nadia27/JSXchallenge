@@ -1,2 +1,0 @@
-# JSXchallenge
-Created with CodeSandbox
